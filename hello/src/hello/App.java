@@ -13,5 +13,7 @@ public class App {
 		OkHttpClient client;
 		
 		Gson gson = new Gson();
+		
+		System.out.println("hello");
 	}
 }
